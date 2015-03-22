@@ -71,3 +71,11 @@ and (max-width : 570px) {
 #search-dropdown .results {
   max-height: 500px;
 }
+
+.atlant-ember-link {
+  img {
+    width: 50px;
+    margin-left: 50px;
+    float: left;
+  }
+}
